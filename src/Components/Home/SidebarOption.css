@@ -1,0 +1,8 @@
+.sidebarOption--active > .MuiSvgIcon-root {
+  stroke: currentColor;
+  stroke-width: 2px;
+}
+
+.sidebarOption--active > h2 {
+  font-weight: 800 !important;
+}
